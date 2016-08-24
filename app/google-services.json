@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "305081815687",
+    "project_id": "wordsfromword"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305081815687:android:95bcd9cde6a1236e",
+        "android_client_info": {
+          "package_name": "com.ncrteam.wordsfromword2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDypVdPqqDWXmK-SIkRcWOzYjUvE6vRaRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-81313215-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorMain">#2196f3</color>
+
+    <color name="downGradient">#803E80</color>
+    <color name="colorMainOff">#A864A8</color>
+    <color name="colorMainOn">#D168D1</color>
+
+
+    <color name="background">#e0e0e0</color>
+    <color name="bar">#2196f3</color>
+    <color name="wordOnBlue">#e3f2fd</color>
+    <color name="wordOnGray">#424242</color>
+    <color name="gameText">#546e7a</color>
+    <color name="timer">#ffebee</color>
+    <color name="editText">#90caf9</color>
+    <color name="text">#f6ff00</color>
+
+    <color name="yellow">#50f6ff00</color>
+    <color name="blue">#502196f3</color>
+    <color name="green">#504caf50</color>
+    <color name="red">#50f44336</color>
+
+    <color name="level0">#9e9e9e</color>
+    <color name="level1">#4caf50</color>
+    <color name="level2">#01c5bb</color>
+    <color name="level3">#2196f3</color>
+    <color name="level4">#9c27b0</color>
+    <color name="level5">#ffeb3b</color>
+    <color name="level6">#ff9800</color>
+    <color name="level7">#f44336</color>
+
+    <color name="l1">#608752a7</color>
+    <color name="l2">#60a55ddb</color>
+    <color name="l3">#60ad60ec</color>
+    <color name="l4">#60ca6dfa</color>
+    <color name="l5">#60fc81fe</color>
+    <color name="l6">#60966dfa</color>
+    <color name="l7">#60716df6</color>
+    <color name="l8">#606c74fb</color>
+    <color name="l9">#606f79fc</color>
+    <color name="l10">#606d83fb</color>
+    <color name="l11">#606d9bf9</color>
+    <color name="l12">#606eabfb</color>
+    <color name="l13">#606cb7fa</color>
+    <color name="l14">#606cc3f9</color>
+    <color name="l15">#606bd1f7</color>
+    <color name="l16">#606ddcfa</color>
+    <color name="l17">#606beef8</color>
+    <color name="l18">#606df5f5</color>
+    <color name="l19">#606bf5d4</color>
+    <color name="l20">#606bf7b8</color>
+    <color name="l21">#606ef692</color>
+    <color name="l22">#606ef57c</color>
+    <color name="l23">#606bfa64</color>
+    <color name="l24">#608ff860</color>
+    <color name="l25">#60b6f860</color>
+    <color name="l26">#60cff763</color>
+    <color name="l27">#60dfff52</color>
+    <color name="l28">#60fdff32</color>
+    <color name="l29">#60fefb22</color>
+    <color name="l30">#60f8e562</color>
+    <color name="l31">#60f7dc67</color>
+    <color name="l32">#60f9d162</color>
+    <color name="l33">#60f5b865</color>
+    <color name="l34">#60f59e68</color>
+    <color name="l35">#60f98e6c</color>
+    <color name="l36">#60f87968</color>
+    <color name="l37">#60f9726c</color>
+    <color name="l38">#60d95e57</color>
+    <color name="l39">#60954a45</color>
+</resources>

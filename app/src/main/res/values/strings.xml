@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Сөзден сөздер</string>
+    <string name="word">WORD</string>
+    <string name="send">send</string>
+    <string name="hintText">Write your word here</string>
+    <string name="backbutton">BackButton</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="leaderboard">КӨШБАСШЫЛАР</string>
+    <string name="lose_text">Мен қарсыласымнан жеңілдім.\nАл сен ұта аласың ба?</string>
+    <string name="win_text">Мен қарсыласымды жеңдім, \nенді сенің кезегің!</string>
+    <string name="equal_text">Сөзден сөздер ойынын ойна!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="toast_track_exception">Exception is recorded. Check the Crashes and Exceptions on Google Dashboard!</string>
+    <string name="toast_app_crash">The app will crash now! Check the Crashes and Exceptions on Google Dashboard!</string>
+    <string name="fragment_footer">Fragment is loaded! Check the screen view on Google Analytics Dashboard.</string>
+    <string name="msg_instructions">Click on each button to see the appropriate tracking on Google Analytics</string>
+    <string name="btn_second_screen">Second Screen</string>
+    <string name="btn_send_event">Track Event</string>
+    <string name="btn_exception_tracking">Track Exception</string>
+    <string name="btn_app_crash">Track App Crash</string>
+    <string name="btn_load_fragment">Fragment Tracking</string>
+
+    <string name="facebook_app_id">1062000667208952</string>
+    <string name="account_kit_client_token">22a9d229f328318ab7c554a1cc25c4f8</string>
+
+</resources>

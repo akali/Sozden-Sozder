@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:layout_height="40dp">
+    <LinearLayout
+        android:id="@+id/leadersLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <ImageView
+            android:id="@+id/checkBoxImageView"
+            android:layout_weight="0.1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:src="@android:drawable/checkbox_off_background"
+            />
+        <TextView
+            android:id="@+id/nameTextView"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.4"
+            android:text="Aisultan"
+            android:textColor="@color/wordOnGray"
+            android:textSize="30sp"/>
+
+        <TextView
+            android:id="@+id/numberTextView"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:text="+77473415484"
+            android:textColor="@color/wordOnGray"
+            android:textSize="30sp"/>
+    </LinearLayout>
+
+</LinearLayout>

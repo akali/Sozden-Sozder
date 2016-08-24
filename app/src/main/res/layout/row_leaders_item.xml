@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="@android:color/white"
+              android:layout_height="40dp">
+
+    <LinearLayout
+        android:id="@+id/leadersLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            android:id="@+id/posTextView"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:text="1"
+            android:textColor="@color/wordOnGray"
+            android:textSize="30sp"/>
+        <TextView
+            android:id="@+id/usernameTextView"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:text="Лақап"
+            android:textColor="@color/wordOnGray"
+            android:textSize="30sp"/>
+
+        <TextView
+            android:id="@+id/scoreTextView"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:text="40"
+            android:textColor="@color/wordOnGray"
+            android:textSize="30sp"/>
+        <TextView
+            android:gravity="center"
+            android:id="@+id/cityTextView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:text="Қарағанды"
+            android:textColor="@color/wordOnGray"
+            android:textSize="30sp"/>
+    </LinearLayout>
+</LinearLayout>
